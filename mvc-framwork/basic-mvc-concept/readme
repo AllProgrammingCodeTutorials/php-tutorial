@@ -1,0 +1,11 @@
+MVC is a framework stands for Model View controller.
+
+M: Model(Database) data u want to show user
+V: View(Frontend) UI layer
+C: Controller(Logic part) - bussiness logic 
+
+How MVC flow ?
+
+firstly user interact with controller. 
+Now controller will call to appropriate model and model return the data and 
+now controller pass this data to appropriate view.
